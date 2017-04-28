@@ -45,9 +45,9 @@ msgstr "Изберете Категория"
 
 #: 
 msgid "Select value"
-msgstr "Изберете стойност"
+msgstr "Изберете стойносттттт"
 
 #: 
 msgid "Settings"
-msgstr "Настройки"
+msgstr "Настройкити"
 
