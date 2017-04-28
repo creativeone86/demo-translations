@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Hello world"
+msgstr ""
+
+msgid "Product form"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Select value"
+msgstr ""
+
+msgid "Contact info"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Related companies"
+msgstr ""
+
+msgid "Invite lists"
+msgstr ""
+
+msgid "Settings"
+msgstr ""

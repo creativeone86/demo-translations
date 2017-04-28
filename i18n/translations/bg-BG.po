@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Language: bg-BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Contact info"
+msgstr "Информация за контакт"
+
+msgid "Hello world"
+msgstr "Здравей Свят!"
+
+msgid "Invite lists"
+msgstr "Списъци с покани"
+
+msgid "Notifications"
+msgstr "Известия"
+
+msgid "Product form"
+msgstr "Продуктова форма"
+
+msgid "Profile"
+msgstr "Профил"
+
+msgid "Related companies"
+msgstr "Свързани компании"
+
+msgid "Select Category"
+msgstr "Изберете Категория"
+
+msgid "Select value"
+msgstr "Изберете стойност"
+
+msgid "Settings"
+msgstr "Настройки"
