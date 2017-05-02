@@ -1,39 +1,53 @@
 msgid ""
 msgstr ""
-"Language: en-US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Test project\n"
+"Language: en-us\n"
 
+#: 
 msgid "Category"
 msgstr ""
 
+#: 
 msgid "Contact info"
 msgstr ""
 
+#: 
 msgid "Hello world"
 msgstr ""
 
+#: 
 msgid "Invite lists"
 msgstr ""
 
+#: 
 msgid "Notifications"
 msgstr ""
 
+#: 
 msgid "Product form"
 msgstr ""
 
+#: 
 msgid "Profile"
 msgstr ""
 
+#: 
 msgid "Related companies"
 msgstr ""
 
+#: 
 msgid "Select Category"
 msgstr ""
 
+#: 
 msgid "Select value"
 msgstr ""
 
+#: 
 msgid "Settings"
 msgstr ""
+
