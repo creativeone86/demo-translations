@@ -1,15 +1,20 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: Test project\n"
+"PO-Revision-Date: 2017-05-03 07:28+0000\n"
+"Last-Translator: Weblate Admin <noreply@weblate.org>\n"
+"Language-Team: Bulgarian <http://example.com/projects/auxionize/test-"
+"component/bg/>\n"
+"Language: bg-BG\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
-"Project-Id-Version: Test project\n"
-"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.13.1\n"
 
 #: 
 msgid "Category"
-msgstr "Категория"
+msgstr "Категорияяяяяяяя"
 
 #: 
 msgid "Contact info"
@@ -17,7 +22,7 @@ msgstr "Информация за контакт"
 
 #: 
 msgid "Hello world"
-msgstr "Опса!"
+msgstr "Здравей свят"
 
 #: 
 msgid "Invite lists"
@@ -33,7 +38,7 @@ msgstr "Продуктова форма"
 
 #: 
 msgid "Profile"
-msgstr "Профил..."
+msgstr "Профил"
 
 #: 
 msgid "Related companies"
@@ -50,4 +55,3 @@ msgstr "Изберете стойносттттт"
 #: 
 msgid "Settings"
 msgstr "Настройкити"
-
