@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Test project\n"
-"PO-Revision-Date: 2017-05-03 07:28+0000\n"
+"PO-Revision-Date: 2017-05-03 07:39+0000\n"
 "Last-Translator: Weblate Admin <noreply@weblate.org>\n"
 "Language-Team: Bulgarian <http://example.com/projects/auxionize/test-"
 "component/bg/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: 
 msgid "Category"
-msgstr "Категорияяяяяяяя"
+msgstr "Категория"
 
 #: 
 msgid "Contact info"
